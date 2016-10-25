@@ -1,0 +1,5 @@
+Loose
+User Hand:
+Nigh of Diamonds||Four of Hearts||(13 points)
+Dealer Hand:
+Six of Spades||Nigh of Spades||(15 points)

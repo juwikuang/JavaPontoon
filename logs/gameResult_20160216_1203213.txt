@@ -1,0 +1,5 @@
+DealerBust
+User Hand:
+Jack of Hearts||Four of Diamonds||Ace of Hearts||(15 or 25 points)
+Dealer Hand:
+Eight of Diamonds||Seven of Spades||Jack of Clubs||(25 points)

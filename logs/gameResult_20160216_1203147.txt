@@ -1,0 +1,5 @@
+DealerBust
+User Hand:
+Nigh of Diamonds||Eight of Hearts||(17 points)
+Dealer Hand:
+Three of Spades||Five of Hearts||Four of Hearts||Two of Clubs||King of Diamonds||(24 points)

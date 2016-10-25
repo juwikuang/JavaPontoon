@@ -1,0 +1,5 @@
+Loose
+User Hand:
+Ten of Diamonds||Five of Hearts||(15 points)
+Dealer Hand:
+Six of Spades||Three of Diamonds||Queen of Spades||(19 points)

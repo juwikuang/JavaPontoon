@@ -1,0 +1,5 @@
+Loose
+User Hand:
+Nigh of Diamonds||Five of Hearts||Five of Spades||(19 points)
+Dealer Hand:
+Ten of Clubs||Queen of Diamonds||(20 points)

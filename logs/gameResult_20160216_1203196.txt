@@ -1,0 +1,5 @@
+Loose
+User Hand:
+Six of Spades||Two of Clubs||Nigh of Hearts||(17 points)
+Dealer Hand:
+Two of Hearts||Queen of Clubs||Six of Diamonds||(18 points)

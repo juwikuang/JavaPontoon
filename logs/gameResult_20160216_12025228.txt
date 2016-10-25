@@ -1,0 +1,5 @@
+Loose
+User Hand:
+Three of Spades||Four of Spades||King of Clubs||(17 points)
+Dealer Hand:
+Jack of Diamonds||Ace of Hearts||(11 or 21 points)

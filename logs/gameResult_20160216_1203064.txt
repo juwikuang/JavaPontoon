@@ -1,0 +1,5 @@
+Win
+User Hand:
+Queen of Spades||Five of Clubs||(15 points)
+Dealer Hand:
+Two of Diamonds||Jack of Clubs||Three of Diamonds||(15 points)

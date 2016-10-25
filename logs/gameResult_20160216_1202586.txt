@@ -1,0 +1,5 @@
+Loose
+User Hand:
+Five of Spades||Five of Diamonds||Nigh of Diamonds||(19 points)
+Dealer Hand:
+Eight of Diamonds||Two of Spades||Six of Spades||Ace of Diamonds||(17 or 27 points)

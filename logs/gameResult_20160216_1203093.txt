@@ -1,0 +1,5 @@
+Loose
+User Hand:
+Jack of Diamonds||Six of Clubs||(16 points)
+Dealer Hand:
+Ace of Clubs||Seven of Hearts||(8 or 18 points)

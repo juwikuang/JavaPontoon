@@ -1,0 +1,5 @@
+Loose
+User Hand:
+Eight of Hearts||Eight of Diamonds||(16 points)
+Dealer Hand:
+Two of Hearts||Six of Hearts||Nigh of Hearts||(17 points)

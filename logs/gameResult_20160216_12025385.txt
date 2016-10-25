@@ -1,0 +1,5 @@
+DealerBust
+User Hand:
+King of Clubs||Jack of Diamonds||(20 points)
+Dealer Hand:
+Four of Hearts||Four of Diamonds||Nigh of Hearts||Seven of Diamonds||(24 points)
